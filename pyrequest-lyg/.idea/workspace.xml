@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="829b5adb-27f2-476c-81cf-dc51601ebd98" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pyrequest-txm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="fash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/fash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/packg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chatrom_vcard_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/chatrom_vcard_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plane_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/飞机大战/plane_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plane_sprites.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/飞机大战/plane_sprites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2021-08-03 17_25_20_result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/2021-08-03 17_25_20_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="105" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interface/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiwei.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/xiwei.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>msg</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/db_fixture/mysql_db.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/db_fixture/test_data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/fash.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HTMLTestRunner.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/chatroom_openboxs_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/run_tests.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/db_config.ini" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tool/SendEmail.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/chatroom_sendmsg_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/chatrom_vcard_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/packg.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/chatroom_join_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/interface/chatroom_quit_test.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/send_mail.py" />
+        <option value="$PROJECT_DIR$/tool/send_mail.py" />
+        <option value="$PROJECT_DIR$/tool/send_email.py" />
+        <option value="$PROJECT_DIR$/send_email.py" />
+        <option value="$PROJECT_DIR$/SendEmail.py" />
+        <option value="$PROJECT_DIR$/interface/add_event_test.py" />
+        <option value="$PROJECT_DIR$/interface/gameComment.py" />
+        <option value="$PROJECT_DIR$/interface/user_login_test.py" />
+        <option value="$PROJECT_DIR$/interface/user_registered_test.py" />
+        <option value="$PROJECT_DIR$/interface/login.py" />
+        <option value="$PROJECT_DIR$/interface/user_register_test.py" />
+        <option value="$PROJECT_DIR$/interface/v5_index.py" />
+        <option value="$PROJECT_DIR$/interface/gameComment_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_join.py" />
+        <option value="$PROJECT_DIR$/interface/chartroom_vcard.py" />
+        <option value="$PROJECT_DIR$/interface/chartroom_join.py" />
+        <option value="$PROJECT_DIR$/db_fixture/mysql_db.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/interface/chartroom_join_test.py" />
+        <option value="$PROJECT_DIR$/interface/chartroom_quit_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_sendmssage_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_sendmessage_test.py" />
+        <option value="$PROJECT_DIR$/interface/sendmsg_test.py" />
+        <option value="$PROJECT_DIR$/db_config.ini" />
+        <option value="$PROJECT_DIR$/tool/SendEmail.py" />
+        <option value="$PROJECT_DIR$/report/2019-02-27 16_37_13_result.html" />
+        <option value="$PROJECT_DIR$/db_fixture/test_data.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_join1_test.py" />
+        <option value="$PROJECT_DIR$/interface/step1Test.py" />
+        <option value="$PROJECT_DIR$/interface/step1test.py" />
+        <option value="$PROJECT_DIR$/interface/step1.py" />
+        <option value="$PROJECT_DIR$/interface/cunt.py" />
+        <option value="$PROJECT_DIR$/interface/fun_demo.py" />
+        <option value="$PROJECT_DIR$/interface/fun_demo_test.py" />
+        <option value="$PROJECT_DIR$/interface/wordgame.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_sendmsg_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_quit_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_join_test.py" />
+        <option value="$PROJECT_DIR$/interface/learn.py" />
+        <option value="$PROJECT_DIR$/interface/forlearn.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_open_box_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_opens_boxs_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_opensboxs_test.py" />
+        <option value="$PROJECT_DIR$/interface/chatroom_openboxs_test.py" />
+        <option value="$PROJECT_DIR$/interface/Hannoi.py" />
+        <option value="$PROJECT_DIR$/interface/xiwei.txt" />
+        <option value="$PROJECT_DIR$/interface/fash.py" />
+        <option value="$PROJECT_DIR$/run_tests.py" />
+        <option value="$PROJECT_DIR$/interface/chatrom_vcard_test.py" />
+        <option value="$PROJECT_DIR$/interface/packg.py" />
+        <option value="$PROJECT_DIR$/interface/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="203" />
+    <option name="y" value="149" />
+    <option name="width" value="1022" />
+    <option name="height" value="611" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyrequest-lyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyrequest-lyg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyrequest-lyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyrequest-lyg" type="462c0819:PsiDirectoryNode" />
+              <item name="db_fixture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyrequest-lyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyrequest-lyg" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyrequest-lyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyrequest-lyg" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowTerminal.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tool" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="fash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyrequest-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/fash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="packg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyrequest-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/packg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyrequest-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyrequest-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in chatroom_join_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pyrequest-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/chatroom_join_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_tests" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.fash" />
+      <item itemvalue="Python.packg" />
+      <item itemvalue="Python tests.Unittests in chatroom_join_test.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.packg" />
+        <item itemvalue="Python tests.Unittests in chatroom_join_test.py" />
+        <item itemvalue="Python.fash" />
+        <item itemvalue="Python.run_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829b5adb-27f2-476c-81cf-dc51601ebd98" name="Default" comment="" />
+      <created>1532429460050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532429460050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_chatroom_opens_boxs_test_chatroom_opens_boxs_test_chatroom_open_box_success - 2020.11.25 at 17h 17m 32s.xml">
+      <configuration name="Unittests for chatroom_opens_boxs_test.chatroom_opens_boxs.test_chatroom_open_box_success" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_opens_boxs_test_py - 2020.11.25 at 17h 21m 50s.xml">
+      <configuration name="Unittests in chatroom_opens_boxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_opens_boxs_test_py - 2020.11.25 at 17h 31m 32s.xml">
+      <configuration name="Unittests in chatroom_opens_boxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_openboxs_test_py - 2020.11.25 at 17h 33m 54s.xml">
+      <configuration name="Unittests in chatroom_openboxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_openboxs_test_py - 2020.11.25 at 17h 34m 47s.xml">
+      <configuration name="Unittests in chatroom_openboxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_openboxs_test_py - 2020.11.25 at 17h 35m 29s.xml">
+      <configuration name="Unittests in chatroom_openboxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_chatroom_openboxs_test_chatroom_openboxs_test_chatroom_openboxs_success - 2020.11.25 at 17h 35m 55s.xml">
+      <configuration name="Unittests for chatroom_openboxs_test.chatroom_openboxs.test_chatroom_openboxs_success" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_openboxs_test_py - 2020.11.25 at 17h 36m 35s.xml">
+      <configuration name="Unittests in chatroom_openboxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_openboxs_test_py - 2020.11.25 at 17h 39m 58s.xml">
+      <configuration name="Unittests in chatroom_openboxs_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_chatroom_join_test_py - 2021.08.03 at 17h 03m 33s.xml">
+      <configuration name="Unittests in chatroom_join_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="203" y="149" width="1022" height="611" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49850747" visible="true" weight="0.3216783" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50093985" side_tool="true" weight="0.35528943" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32741618" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" x="230" y="340" width="1064" height="164" id="Python Console" order="7" type="WINDOWED" weight="0.3273453" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49906015" weight="0.35433072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" x="0" y="25" width="1440" height="875" id="Terminal" order="8" sideWeight="0.4994664" weight="0.27559054" />
+      <window_info id="Favorites" order="2" sideWeight="0.50149256" side_tool="true" weight="0.18560277" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3964497" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49850747" visible="true" weight="0.22692037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49906015" weight="0.35528943" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32741618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3964497" />
+      <window_info anchor="bottom" x="0" y="25" width="1440" height="875" id="Terminal" order="8" show_stripe_button="false" sideWeight="0.4994664" weight="0.2774451" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50093985" side_tool="true" weight="0.35528943" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Favorites" order="2" sideWeight="0.50149256" side_tool="true" weight="0.18560277" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" x="230" y="340" width="1064" height="164" id="Python Console" order="7" type="WINDOWED" weight="0.3273453" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/interface/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_26_23_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_28_15_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_29_13_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_32_32_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_38_31_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-03-05 15_32_34_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-03-05 15_47_19_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_31_31_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_37_13_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2019-02-27 16_29_51_result.html" />
+    <entry file="file://$PROJECT_DIR$/interface/chatroom_join1_test.py" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-14 17_40_08_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-14 17_42_15_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-14 17_43_35_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-14 17_47_02_result.html" />
+    <entry file="file://$PROJECT_DIR$/interface/cunt.py" />
+    <entry file="file://$PROJECT_DIR$/interface/wordgame.py" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-15 18_07_06_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-24 18_44_43_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-04-14 17_52_25_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-11-25 16_22_00_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-11-25 16_28_08_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-11-25 16_40_01_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-11-25 16_54_11_result.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-11-25 16_56_07_result.html" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/step1test.py" />
+    <entry file="file://$PROJECT_DIR$/interface/step1.py" />
+    <entry file="file://$PROJECT_DIR$/interface/learn.py" />
+    <entry file="file://$PROJECT_DIR$/interface/Hannoi.py" />
+    <entry file="file://$PROJECT_DIR$/report/2021-03-16 20_05_31_result.html" />
+    <entry file="file://$PROJECT_DIR$/interface/chatroom_quit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2021-05-21 16_54_57_result.html" />
+    <entry file="file://$PROJECT_DIR$/tool/SendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_fixture/test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_fixture/mysql_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/chatroom_sendmsg_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/chatroom_join_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/chatroom_openboxs_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2021-08-03 17_25_20_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="105" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/飞机大战/plane_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/chatrom_vcard_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/fash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/xiwei.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/packg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/飞机大战/plane_sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
